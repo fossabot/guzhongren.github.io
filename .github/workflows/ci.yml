@@ -5,7 +5,7 @@ on:
     branches:
       - blog
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build-deploy:
