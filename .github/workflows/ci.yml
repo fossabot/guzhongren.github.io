@@ -1,4 +1,4 @@
-name: github pages
+name: Deploy blog
 
 on:
   push:
@@ -19,6 +19,10 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
         hugo-version: '0.64.0'
+
+    - name: Health check
+      run: |
+        date +"%Y-%m-%d %H:%M:%S.%N" > static/health.html
 
     - name: Build
       run: hugo --minify
