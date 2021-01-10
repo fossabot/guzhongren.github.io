@@ -9,8 +9,8 @@ license: "Creative Commons Attribution 4.0 International license"
 
 tags: ["Agile", "Tech debt", "debt"]
 categories: ["Agile"]
-featuredImage: "https://images.pexels.com/photos/2881785/pexels-photo-2881785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-images: [""]
+featuredImage: "https://i.loli.net/2021/01/10/ToABlS78eDgYUZi.png"
+images: ["https://i.loli.net/2021/01/10/ToABlS78eDgYUZi.png"]
 ---
 
 ## 缘由
