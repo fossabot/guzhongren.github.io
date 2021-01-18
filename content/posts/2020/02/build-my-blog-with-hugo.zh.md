@@ -241,5 +241,6 @@ pub:
 * 3.[https://github.com/dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
 * 4.[https://github.com/features/actions](https://github.com/features/actions)
 * 5.[https://github.com/settings/tokens](https://github.com/settings/tokens)
+* 6.[生成icon: https://realfavicongenerator.net/](https://realfavicongenerator.net/)
 ----
 ![谷哥说-微信公众号](/images/wechat/扫码_搜索联合传播样式-标准色版.png)
