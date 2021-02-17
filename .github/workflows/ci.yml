@@ -39,3 +39,10 @@ jobs:
         publish_branch: master
         user_name: guzhongren
         user_email: guzhongren@live.cn
+    - name: Sync to Gitee
+      uses: x-dr/sync-repo-to-gitee@master
+      env:
+        SSH_KEY: ${{ secrets.GITEE_KEY }}
+      with:
+        github-repo: "git@github.com:guzhongren/guzhongren.github.io.git"
+        gitee-repo: "git@gitee.com:Guzhongren/guzhongren.git"
