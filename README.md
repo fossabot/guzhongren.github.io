@@ -31,3 +31,5 @@ $ make commit message="feat(post): 发布新文章"
 ```zsh
 $ make pub
 ```
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io?ref=badge_large)
